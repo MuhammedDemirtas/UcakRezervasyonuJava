@@ -1,5 +1,5 @@
 # UÇAK REZERVASYON JAVA PROJESİ 
--Bu bir uçak rezervasyon projesidir. 
+-- Bu bir uçak rezervasyon projesidir. 
 
 -Proje Eclipse IDE ve Java kullanılarak hazırlanmıştır.
 
