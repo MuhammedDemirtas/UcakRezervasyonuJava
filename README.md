@@ -1,9 +1,14 @@
 # UÇAK REZERVASYON JAVA PROJESİ 
 -Bu bir uçak rezervasyon projesidir. 
+
 -Proje Eclipse IDE ve Java kullanılarak hazırlanmıştır.
+
 -Kullanıcı, adı, soyadı, kimlik numarası, telefon numarası, e-posta adresi ve özel ihtiyaçları var mı yok mu gibi kişisel bilgilerini girdikten sonra, kalkış ve varış noktalarını, seyahat tarihlerini ve tercih edilen uçağı seçebilir. Ardından, -size verilen saat ve koltuk numarasını ekrana yazdırıp uçuş rezervasyonu oluşturulur ve kullanıcıya gösterilir.
+
 -Uygulama, JAVA programlama dili kullanılarak geliştirilmiştir. 
+
 -Veriler, sınıflar kullanılarak yönetilir ve kullanıcının girdiği bilgiler kullanılarak bir rezervasyon oluşturulur. Uygulama, kullanıcıya çeşitli bilgileri ve seçenekleri sormak için konsol arayüzünü kullanır.
+
 -Uygulama, uçak ve havalimanı bilgilerini içeren iki ayrı sınıf kullanır. Uçak bilgileri, uçak markası, yolcu kapasitesi, hızı ve sınıfı gibi bilgileri içeren bir Aircraft sınıfında tutulurken, havalimanı bilgileri, havalimanı adı ve şehir gibi -bilgileri içeren bir Location sınıfında tutulur. Bu bilgiler, kullanıcıya seyahat seçenekleri sunmak için kullanılır.
 
 -----------------------------------------------------------------------------------------------------------------
